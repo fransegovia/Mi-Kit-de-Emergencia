@@ -14,8 +14,10 @@ Organiza el Kit de Emergencia por Categorías. En cada una de ellas puedes perso
 # Compatibilidad
 La aplicación es compatible con cualquier dispositivo iOS o iPadOS a partir de la versión 18, también puede ser instalado en macOS con M1 o superior.
 
-# Política de Privacidad
+# Política de Privacidad / Privacy Policy
 Mi Kit de Emergencia no recoge ninguna información personal ni de ningún tipo, toda la información se guarda localmente en el dispositivo del usuario.
+
+My Emergency Kit does not collect any personal or other information; all information is stored locally on the user's device.
 
 # Pantallazos
 <!--
