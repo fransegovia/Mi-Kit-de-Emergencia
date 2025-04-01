@@ -14,10 +14,18 @@ Organiza el Kit de Emergencia por Categorías. En cada una de ellas puedes perso
 # Compatibilidad
 La aplicación es compatible con cualquier dispositivo iOS o iPadOS a partir de la versión 18, también puede ser instalado en macOS con M1 o superior.
 
-# Política de Privacidad / Privacy Policy
+# Política de Privacidad / Privacy Policy / Politique de Confidentialité / Datenschutzrichtlinie / Politica sulla Riservatezza / Política de Privacidade
 Mi Kit de Emergencia no recoge ninguna información personal ni de ningún tipo, toda la información se guarda localmente en el dispositivo del usuario.
 
 My Emergency Kit does not collect any personal or other information; all information is stored locally on the user's device.
+
+My Kit de survie ne collecte aucune information personnelle d'aucune sorte, toutes les informations sont enregistrées localement sur l'appareil de l'utilisateur.
+
+My Notfallpaket sammelt keinerlei persönliche Daten, alle Informationen werden lokal auf dem Gerät des Benutzers gespeichert.
+
+My Kit di emergenza non raccoglie informazioni personali di alcun tipo, tutte le informazioni vengono salvate localmente sul dispositivo dell'utente.
+
+O meu Kit de Emergência não recolhe qualquer informação pessoal de qualquer tipo, todas as informações são guardadas localmente no dispositivo do utilizador.
 
 # Pantallazos
 <!--
